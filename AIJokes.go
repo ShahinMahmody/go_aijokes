@@ -1,4 +1,4 @@
-package AIJokes
+package go_aijokes
 
 import "math/rand"
 
